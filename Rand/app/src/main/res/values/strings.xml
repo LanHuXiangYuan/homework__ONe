@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rand</string>
+    <string name="title_home">电影榜</string>
+    <string name="title_dashboard">电视剧榜</string>
+    <string name="title_notifications">综艺榜</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="no_find_event">加载失败</string>
+    <string name="buy_button">购票</string>
+</resources>

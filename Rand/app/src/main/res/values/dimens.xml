@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- view use. -->
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="list_item_padding">8dp</dimen>
+    <dimen name="list_pane_width">400dp</dimen>
+    <dimen name="detail_pane_width">600dp</dimen>
+    <dimen name="list_paddingBotton">50dp</dimen>
+    <dimen name="lsit_paddingTop">8dp</dimen>
+    <dimen name="interval_width">8dp</dimen>
+    <dimen name="interval_small">4dp</dimen>
+    <dimen name="min_touch_target">38dp</dimen>
+    <dimen name="interval_normal">16dp</dimen>
+    <dimen name="spacing_micro">8dp</dimen>
+</resources>
